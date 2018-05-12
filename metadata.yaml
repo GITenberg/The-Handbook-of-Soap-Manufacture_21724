@@ -1,0 +1,33 @@
+_repo: The-Handbook-of-Soap-Manufacture_21724
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Appleton, H. A.
+    gutenberg_agent_id: '24869'
+    url: http://www.gutenberg.org/2009/agents/24869
+  - agent_name: Simmons, W. H. (William Herbert)
+    alias: Simmons, William Herbert
+    gutenberg_agent_id: '24868'
+    url: http://www.gutenberg.org/2009/agents/24868
+description: ''
+gutenberg_bookshelf:
+- Crafts
+- Technology
+- Chemistry
+gutenberg_issued: '2007-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21724'
+  lccn: 09022036
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soap'
+- !lcc 'TP'
+title: The Handbook of Soap Manufacture
+url: http://www.gutenberg.org/ebooks/21724
